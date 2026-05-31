@@ -1,0 +1,4 @@
+experiment_group,dimension,train_keep_prob,disable_dropout,folds,n_folds,mean_accuracy,std_accuracy,mean_best_accuracy,std_best_accuracy,source_csv_count
+trial_level_s01_s08,arousal,0.5,0,1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5,40,0.543125,0.148717,0.650937,0.120639,8
+trial_level_s01_s08,valence,0.5,0,1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5,40,0.569688,0.123147,0.680937,0.105697,8
+trial_level_smoke,valence,0.5,0,1,1,0.500000,0.000000,0.500000,0.000000,1

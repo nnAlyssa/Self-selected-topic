@@ -1,0 +1,3 @@
+experiment_group,dimension,train_keep_prob,disable_dropout,folds,n_folds,mean_accuracy,std_accuracy,mean_best_accuracy,std_best_accuracy,source_csv_count
+ablation_s01_s08,arousal,0.5,0,1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10,80,0.896094,0.071823,0.926875,0.053440,8
+ablation_s01_s08,valence,0.5,0,1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10,80,0.900156,0.076124,0.923281,0.071773,8

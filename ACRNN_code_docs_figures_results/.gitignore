@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local datasets are not included because DEAP requires separate access.
+data/
+*.dat
+*.pkl
+*.npy
+*.npz
+*.h5
+
+# Runtime outputs that can grow large.
+logs/
+output/
+*.log
+*.out
+
+# Local archives and temporary packages.
+*.tar
+*.tar.gz
+*.zip
+*.rar
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

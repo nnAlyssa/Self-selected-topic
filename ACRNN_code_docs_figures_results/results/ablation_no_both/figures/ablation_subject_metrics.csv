@@ -1,0 +1,9 @@
+method,dimension,mean_accuracy,std_accuracy
+Full ACRNN,valence,92.64062441885471,4.784385829497162
+w/o self-attention,valence,93.328125,4.252592434117602
+w/o channel attention,valence,90.125,6.628200035777864
+w/o both,valence,90.015625,7.097986856194811
+Full ACRNN,arousal,92.35937438905239,4.661984374753932
+w/o self-attention,arousal,92.75,4.714150430959356
+w/o channel attention,arousal,90.1875,6.011150353420599
+w/o both,arousal,89.609375,6.315880459773037

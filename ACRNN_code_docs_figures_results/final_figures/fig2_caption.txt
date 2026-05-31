@@ -1,0 +1,1 @@
+Control experiments on ACRNN. (a) Module ablation on s01-s08 compares Full ACRNN with variants removing self-attention, channel attention, or both. (b) Split protocol robustness compares sample-level and trial-level evaluation; trial-level split prevents windows from the same trial appearing in both training and test sets.
